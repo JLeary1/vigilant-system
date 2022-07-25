@@ -1,2 +1,3 @@
 # vigilant-system
-DND RANSOMSHIT
+Repository of random shit, primarily DND
+
